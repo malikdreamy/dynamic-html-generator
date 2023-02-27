@@ -1,0 +1,59 @@
+/* style sheet for employee information */
+
+/* set up some basic styles */
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .employee {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+  }
+  
+  /* add styles for employee names */
+  .employee .name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  
+  /* add styles for job titles */
+  .employee .jobTitle {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  /* add styles for email addresses */
+  .employee .email {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  /* add styles for employee numbers */
+  .employee .employeeNumber {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  /* add styles for office numbers */
+  .employee .officeNumber {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  /* add some color to the employee boxes */
+  .employee:nth-child(odd) {
+    background-color: #f7f7f7;
+  }
+  
+  .employee:nth-child(even) {
+    background-color: #e0e0e0;
+  }
+  
+  /* add hover effect for the employee boxes */
+  .employee:hover {
+    background-color: #ddd;
+    cursor: pointer;
+  }
+  
