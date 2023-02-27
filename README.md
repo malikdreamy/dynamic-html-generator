@@ -36,6 +36,6 @@ For creating an HTML page for all employees in a company with all their importan
 
 To have a template made already for creating HTML pages and for making organizing comapny information easy
 
-## License
+Photo
+<img width="1496" alt="Screen Shot 2023-02-26 at 10 56 29 PM" src="https://user-images.githubusercontent.com/119153047/221496382-ad9cb75a-4a9b-4441-b287-2e53ce9c459f.png">
 
-no licenses
