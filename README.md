@@ -40,5 +40,5 @@ Photo
 <img width="1496" alt="Screen Shot 2023-02-26 at 10 56 29 PM" src="https://user-images.githubusercontent.com/119153047/221496382-ad9cb75a-4a9b-4441-b287-2e53ce9c459f.png">
 
 Walk-Through Video:
-<img width="1496" alt="Screen Shot 2023-02-26 at 10 56 29 PM" src="https://user-images.githubusercontent.com/119153047/221496382-ad9cb75a-4a9b-4441-b287-2e53ce9c459f.png">
+<img width="1496" alt="Screen Shot 2023-02-26 at 10 56 29 PM" src="https://user-images.githubusercontent.com/119153047/221496382-ad9cb75a-4a9b-4441-b287-2e53ce9c459f.png"> 
 
